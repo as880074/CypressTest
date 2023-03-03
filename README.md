@@ -14,7 +14,7 @@ npm -v
 
 
 
-![image-20230303192425354](C:\Users\TX\Desktop\Cypress\pitcutre\image-20230303192425354.png)
+![image-20230303192425354](.\pitcutre\image-20230303192425354.png)
 
 
 
@@ -34,7 +34,7 @@ npm install cypress --save-dev
 npx cypress open
 ```
 
-![image-20230303192843739](C:\Users\TX\Desktop\Cypress\pitcutre\image-20230303192843739.png)
+![image-20230303192843739](.\pitcutre\image-20230303192843739.png)
 
 
 
